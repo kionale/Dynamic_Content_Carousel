@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    
+ 
+}
+
+.imageSection{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.arrowL{
+    position:absolute;
+    top:100px;
+    left:10px;
+}
+
+.arrowR{
+    position: absolute;
+    top:100px;
+    right:10px;
+}

@@ -1,0 +1,30 @@
+.main {
+  
+  min-height: 100vh;
+  background-image: url('/bg-img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:8rem;
+  width:500px;
+}
+
+.text{
+  line-height: 1.75rem;
+}
+
+.span{
+  color:lightcoral;
+}
