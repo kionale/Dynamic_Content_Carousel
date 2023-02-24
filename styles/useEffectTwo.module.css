@@ -24,3 +24,8 @@
 .text{
   line-height: 1.75rem;
 }
+
+.span{
+  color:var(--quinary-clr);
+  font-weight: bold;
+}
