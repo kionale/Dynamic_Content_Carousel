@@ -17,12 +17,17 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin:3rem;
+  margin:1.5rem;
   width:500px;
 }
 
 .text{
   line-height: 1.75rem;
+}
+
+.buttons{
+  display: flex;
+  gap:1rem;
 }
 
 .btn{
