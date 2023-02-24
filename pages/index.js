@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
-import Navbar from '@/components/NavBar'
+import Navbar from '@/components/Carousel/NavBar'
 import Image from 'next/image'
 import { useState } from 'react'
 
